@@ -9503,7 +9503,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtconstruct.pw.toml"
-hash = "8365349eadfa8c3dbabb3d91ddf2323e7cfe5cb402aa8921ab012d2a68b2f834"
+hash = "fff4853c8d9b2ef5128fc67b2f459bc3a9e7dbb4436366d107b18d81c8c7f190"
 metafile = true
 
 [[files]]
@@ -9643,7 +9643,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "f5770197f30417cfbe5306ad84aab85cab79bf17958aa4d1d962a55cc659a320"
+hash = "ce10ba1203319554de02f99d08ad0805cfae496466bbd0fe851bc36b086d3ee0"
 metafile = true
 
 [[files]]
